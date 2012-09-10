@@ -1,7 +1,7 @@
 #Asset Pipeline for CFWheels
 
 ##Installation
-Install [Node.js](http://nodejs.org)
+Install [Node.js](http://nodejs.org)<br />
 Install [Git](http://git-scm.com/book/en/Getting-Started-Installing-Git)
 
 Open up Terminal / Console.
